@@ -1,4 +1,4 @@
-# 🛡️ LogSentinel (或者您选的其他名字)
+# 🛡️ LogSentinel
 
 > **让 AI 成为你的 7x24 小时运维专家。**
 > *Turn your logs into actionable insights with LLM Agents.*
